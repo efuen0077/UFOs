@@ -13,24 +13,6 @@ The goals of this challenge are for you to:
 - Update and deploy forEach (for loop) to loop through the filters and update them with user input.
 - Update and populate the dynamic filters and table using JavaScript and HTML.
 
-### Instructions
-Include five total filters in the table:
-
-Date
-City
-State
-Country
-Shape
-To create these additional filters, keep the following points in mind:
-
-You will need to create a new function that will replace your handleClick(); function. This function saves the element, value, and the id of the filter that was changed.
-Create an if-else statement to add filter data from input, or clear the filter if no input data exists.
-Additionally, create a function named filterTable(); that will perform the following actions:
-Set the filtered data to the table.
-Loop through all of the filters and keep any data that matches the filter values.
-Rebuild the table by calling the buildTable(); function created earlier.
-Finally, using d3.selectAll();, attach an event listener to pick up changes that are made to each filter.
-
 ### Analysis
 
 #### Final Code
