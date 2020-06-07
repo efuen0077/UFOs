@@ -5,7 +5,7 @@ Module 11
 
 #### Final Code
 [style.css.zip](https://github.com/efuen0077/UFOs/files/4741459/style.css.zip)
-![nasa](https://user-images.githubusercontent.com/62089134/83961527-d998c180-a848-11ea-9169-e36b99f6e26b.jpg)
+
 [app.js.zip](https://github.com/efuen0077/UFOs/files/4741460/app.js.zip)
 
 [index.html.zip](https://github.com/efuen0077/UFOs/files/4741461/index.html.zip)
