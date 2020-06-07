@@ -20,5 +20,4 @@ I used the code necessary to create a filter by the date during the module as a 
 In order to get the filter button to work properly, it was important to call the function. One way that this code could have been written in a more efficient way would have been with the use of a for loop.
 
 #### Final Code
-[app.js.zip](https://github.com/efuen0077/UFOs/files/4675495/app.js.zip)
-[style.css.zip](https://github.com/efuen0077/UFOs/files/4675496/style.css.zip)
+
