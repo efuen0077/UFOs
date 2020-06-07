@@ -4,11 +4,7 @@ Module 11
 ## Challenge
 
 #### Final Code
-[style.css.zip](https://github.com/efuen0077/UFOs/files/4741459/style.css.zip)
-
-[app.js.zip](https://github.com/efuen0077/UFOs/files/4741460/app.js.zip)
-
-[index.html.zip](https://github.com/efuen0077/UFOs/files/4741461/index.html.zip)
+[UFOs.zip](https://github.com/efuen0077/UFOs/files/4741475/UFOs.zip)
 
 ### Background
 The webpage and dynamic table Dana has built are working as intended, but Dana has decided she would like the table to be filtered even further. While it currently filters by the date, she would like to include the ability to filter by more column headers. The ability to pinpoint a search by date and country, for example, would go a long way in providing more in-depth analysis of UFO sightings.
